@@ -2,4 +2,3 @@ __pycache__
 .vscode
 Pipfile.lock
 db.sqlite
-.gitignore
