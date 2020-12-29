@@ -1,8 +1,8 @@
 # Backpacker-Blog
 
 - pip install -r requirements.txt
--in the python terminal: - from flaskblog import db
-                         - from flaskblog.models import user, post
+- in the python terminal: - from flaskblog import db
+                         - from flaskblog.models import User, Post
                          - db.create_all()
                          - exit()
                          
