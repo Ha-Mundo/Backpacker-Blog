@@ -4,11 +4,11 @@
 
 - in the python terminal: - from flaskblog import db
 
-                         - from flaskblog.models import user, post
+                          - from flaskblog.models import User, Post
                          
-                         - db.create_all()
+                          - db.create_all()
                          
-                         - exit()
+                          - exit()
                          
 - in the Windows System Variable add SECRET_KEY and SQLALCHEMY_DATABASE_URI
                          
