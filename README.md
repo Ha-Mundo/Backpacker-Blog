@@ -1,7 +1,6 @@
 # Backpacker-Blog
 
 - pip install -r requirements.txt
-<<<<<<< HEAD
 - in the python terminal: - from flaskblog import db
                          - from flaskblog.models import User, Post
                          - db.create_all()
@@ -13,7 +12,6 @@
                           - from flaskblog.models import User, Post
                          
                           - db.create_all()
->>>>>>> 9668f027115bf9ece678fbb929c3eb30ee809ecf
                          
                           - exit()
                          
