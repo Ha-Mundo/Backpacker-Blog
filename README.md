@@ -5,7 +5,6 @@
                          - from flaskblog.models import User, Post
                          - db.create_all()
                          - exit()
-=======
 
 - in the python terminal: - from flaskblog import db
 
